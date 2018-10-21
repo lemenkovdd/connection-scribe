@@ -2,7 +2,7 @@ package = 'connection-scribe'
 version = 'scm-1'
 
 source  = {
-    url    = 'git://github.com/moonlibs/connection-scribe.git';
+    url    = 'git://github.com/lemenkovdd/connection-scribe.git';
     branch = 'master';
 }
 
